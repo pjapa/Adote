@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873331071890",
+    "project_id": "perfil-1cd81",
+    "storage_bucket": "perfil-1cd81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873331071890:android:e08886a6240f94fff9ff4b",
+        "android_client_info": {
+          "package_name": "com.thiago.perfil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873331071890-r0k7nqpj6gl04qcg9qr5ghd860fhedv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrU-wU5HNA95hmtJC1vuRMSCp0srKTweU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873331071890-r0k7nqpj6gl04qcg9qr5ghd860fhedv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
