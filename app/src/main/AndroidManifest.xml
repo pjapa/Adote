@@ -1,40 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.thiago.perfil">
+    package="com.thiago.Adote">
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:icon="@drawable/dogcat"
+        android:label="Não Compre, Adote"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Perfil">
+        android:theme="@style/Theme.perfil">
         <activity
-            android:name=".Veterianario_list"
+            android:name="com.thiago.Adote.doacoes"
             android:exported="false" />
         <activity
-            android:name=".Pet_shop"
+            android:name="com.thiago.Adote.Veterianario_list"
             android:exported="false" />
         <activity
-            android:name=".ListaDeGato"
+            android:name="com.thiago.Adote.Pet_shop"
             android:exported="false" />
         <activity
-            android:name=".Buttons"
+            android:name="com.thiago.Adote.ListaDeGato"
             android:exported="false" />
         <activity
-            android:name=".listasDeCachorro"
+            android:name="com.thiago.Adote.Buttons"
             android:exported="false" />
         <activity
-            android:name=".TelaPrincipal"
+            android:name="com.thiago.Adote.listasDeCachorro"
+            android:exported="false" />
+        <activity
+            android:name="com.thiago.Adote.TelaPrincipal"
             android:exported="true" />
         <activity
-            android:name=".FormCadastro"
+            android:name="com.thiago.Adote.FormCadastro"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.thiago.Adote.MainActivity"
             android:exported="true" />
         <activity
-            android:name=".formLogin"
+            android:name="com.thiago.Adote.formLogin"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

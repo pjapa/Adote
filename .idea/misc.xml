@@ -3,6 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/layout/activity_buttons.xml" value="0.1" />
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/layout/activity_doacoes.xml" value="0.25" />
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/layout/activity_form_login.xml" value="0.1" />
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/layout/activity_listas_de_cachorro.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/layout/activity_pet_shop.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/layout/activity_tela_principal.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/layout/cat_list.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/layout/dog_list.xml" value="0.1" />
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/layout/petshop_list.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/layout/veterinario_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/mipmap-anydpi-v26/adote.xml" value="0.1125" />
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/mipmap-anydpi-v26/adote_round.xml" value="0.1125" />
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Home/StudioProjects/Adote/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
         <entry key="..\:/Users/thiag/AndroidStudioProjects/perfil2/app/src/main/res/drawable/background.xml" value="0.2203125" />
         <entry key="..\:/Users/thiag/AndroidStudioProjects/perfil2/app/src/main/res/drawable/button.xml" value="0.10185185185185185" />
         <entry key="..\:/Users/thiag/AndroidStudioProjects/perfil2/app/src/main/res/drawable/container_components.xml" value="0.10185185185185185" />
