@@ -16,12 +16,13 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
 
+
     <TextView
         android:id="@+id/nome_gato"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="cachorro"
-        android:textSize="20sp"
+        android:text="gato"
+        android:textSize="15sp"
         android:textColor="@android:color/black"
         android:textStyle="bold"
         android:layout_marginStart="140dp"
@@ -36,7 +37,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="raça:......."
-        android:textSize="16sp"
+        android:textSize="15sp"
         android:textColor="@android:color/black"
         android:layout_marginStart="140dp"
         android:layout_marginEnd="10dp"
@@ -50,7 +51,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="contato:......."
-        android:textSize="18sp"
+        android:textSize="12sp"
         android:textColor="@android:color/black"
         android:layout_marginStart="10dp"
         android:layout_marginTop="10dp"

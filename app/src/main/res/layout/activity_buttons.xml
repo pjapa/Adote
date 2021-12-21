@@ -6,40 +6,37 @@
     android:layout_height="match_parent"
     android:background="@drawable/background"
     tools:context=".Buttons">
-
     <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/animation_view"
         android:layout_width="200dp"
-        android:layout_height="200dp"
-        app:lottie_rawRes="@raw/dog"
+        android:layout_height="150dp"
+        app:lottie_rawRes="@raw/pata"
         app:lottie_loop="true"
         app:lottie_autoPlay="true"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
-
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btncachorro"
         style="@style/Button"
         android:layout_width="0dp"
-        android:layout_height="50dp"
+        android:layout_height="45dp"
         android:layout_marginTop="24dp"
         android:text="Cachorros"
-        android:textColor="@color/white"
-        android:textSize="13sp"
+        android:textColor="#464646"
+        android:textSize="10sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/animation_view" />
-
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btngato"
         style="@style/Button"
         android:layout_width="0dp"
-        android:layout_height="50dp"
+        android:layout_height="45dp"
         android:layout_marginTop="24dp"
         android:text="Gatos"
-        android:textColor="@color/white"
-        android:textSize="13sp"
+        android:textColor="#464646"
+        android:textSize="10sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -48,11 +45,11 @@
         android:id="@+id/btnpetshop"
         style="@style/Button"
         android:layout_width="0dp"
-        android:layout_height="50dp"
+        android:layout_height="45dp"
         android:layout_marginTop="24dp"
         android:text="Pet shops"
-        android:textColor="@color/white"
-        android:textSize="13sp"
+        android:textColor="#464646"
+        android:textSize="10sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/btngato" />
@@ -60,15 +57,26 @@
         android:id="@+id/btnveterinario"
         style="@style/Button"
         android:layout_width="0dp"
-        android:layout_height="50dp"
+        android:layout_height="45dp"
         android:layout_marginTop="24dp"
         android:text="Veterinarios"
-        android:textColor="@color/white"
-        android:textSize="13sp"
+        android:textColor="#464646"
+        android:textSize="10sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnpetshop" />
-
-
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnajude"
+        style="@style/Button"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="24dp"
+        android:text="Ajude o desenvolvedor do app"
+        android:textColor="#464646"
+        android:textSize="8sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnveterinario" />
 </androidx.constraintlayout.widget.ConstraintLayout>
