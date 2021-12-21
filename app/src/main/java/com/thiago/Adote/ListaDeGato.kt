@@ -27,7 +27,7 @@ class ListaDeGato : AppCompatActivity() {
             "Dinorá",
             "Porte Pequena," +
                     " castrada," +
-                    " vacinada" +
+                    " vacinada," +
                     " Fêmea",
             "(11)43653349/" +
                     " 43689237"
@@ -38,7 +38,7 @@ class ListaDeGato : AppCompatActivity() {
             "Dona",
             "Porte Pequena," +
                     " castrada," +
-                    " vacinada" +
+                    " vacinada," +
                     " Fêmea",
             "(11)43653349/" +
                     " 43689237"
@@ -49,7 +49,7 @@ class ListaDeGato : AppCompatActivity() {
             "Guliver",
             "Porte Pequen," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " Macho",
             "(11)43653349/" +
                     " 43689237"
@@ -60,7 +60,7 @@ class ListaDeGato : AppCompatActivity() {
             "Lotus",
             "Porte Pequeno," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " Macho",
             "(11)43653349/" +
                     " 43689237"
@@ -71,7 +71,7 @@ class ListaDeGato : AppCompatActivity() {
             "Maloca",
             "Porte Pequeno," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " Macho",
             "(11)43653349/" +
                     " 43689237"
@@ -82,7 +82,7 @@ class ListaDeGato : AppCompatActivity() {
             "Nego",
             "Porte Pequeno," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " Macho",
             "(11)43653349/" +
                     " 43689237"
@@ -93,7 +93,7 @@ class ListaDeGato : AppCompatActivity() {
             "Tigrinha",
             "Porte Pequena," +
                     " castrada," +
-                    " vacinada" +
+                    " vacinada," +
                     " Fêmea",
             "(11)43653349/" +
                     " 43689237"
@@ -104,7 +104,7 @@ class ListaDeGato : AppCompatActivity() {
             "Sara",
             "Porte Pequena," +
                     " castrada," +
-                    " vacinada" +
+                    " vacinada," +
                     " Fêmea",
             "(11)43653349/" +
                     " 43689237"

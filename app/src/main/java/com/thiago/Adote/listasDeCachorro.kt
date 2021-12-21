@@ -32,7 +32,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Ruy",
             "Porte Médio," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -44,7 +44,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Thor",
             "Porte Médio," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -56,7 +56,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Bethoven",
             "Porte Grande," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -68,7 +68,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Estrela",
             "Porte Médio," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     "  Fêmea",
             "(11)43653349/" +
                     " 43689237"
@@ -80,7 +80,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Dobby",
             "Porte Grande," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -92,7 +92,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Kaique",
             "Porte Grande," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -104,7 +104,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Jubileu",
             "Porte Médio," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -116,7 +116,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Juqui",
             "Porte Médio," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -127,7 +127,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Luck",
             "Porte Médio," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -138,7 +138,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Nhoque",
             "Porte Grande," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -149,7 +149,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Pirata",
             "Porte Médio," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -160,7 +160,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Zeca",
             "Porte Grande," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -171,7 +171,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Sheik",
             "Porte Grande," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -182,7 +182,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Raul Gil",
             "Porte Médio," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -193,7 +193,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Tuca",
             "Porte Médio," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -204,7 +204,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Kaique",
             "Porte Grande," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -215,7 +215,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Jubileia",
             "Porte Médio," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " Fêmea",
             "(11)43653349/" +
                     " 43689237"
@@ -226,7 +226,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Jade",
             "Porte Médio," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " Fêmea",
             "(11)43653349/" +
                     " 43689237"
@@ -237,7 +237,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Lua",
             "Porte Grande," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " Fêmea",
             "(11)43653349/" +
                     " 43689237"
@@ -248,7 +248,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Ramiro",
             "Porte Grande," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -259,7 +259,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Coronel",
             "Porte Grande," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -270,7 +270,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Brutus",
             "Porte Grande," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -281,7 +281,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Jay",
             "Porte Grande," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -292,7 +292,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Jade",
             "Porte Médio," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     "  Fêmea",
             "(11)43653349/" +
                     " 43689237"
@@ -303,7 +303,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Juca",
             "Porte Pequeno," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"
@@ -314,7 +314,7 @@ class listasDeCachorro : AppCompatActivity() {
             "Toddy",
             "Porte Pequeno," +
                     " castrado," +
-                    " vacinado" +
+                    " vacinado," +
                     " macho",
             "(11)43653349/" +
                     " 43689237"

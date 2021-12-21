@@ -29,5 +29,8 @@ class AdapterGato(private val context: Context, private val gato:MutableList<Gat
         val nome = itemView.findViewById<TextView>(R.id.nome_gato)
         val descricao = itemView.findViewById<TextView>(R.id.descricao)
         val contato = itemView.findViewById<TextView>(R.id.contato)
+
     }
+
+
 }

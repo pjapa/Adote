@@ -16,12 +16,14 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
+
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnEntrar"
         style="@style/Button"
         android:layout_height="50dp"
         android:contentDescription="Button"
         android:text="Não Compre, Adote"
+        android:textColor="#464646"
         android:textSize="13sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
